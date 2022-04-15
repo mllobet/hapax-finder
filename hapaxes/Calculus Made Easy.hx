@@ -1,1 +1,6 @@
-headtitlefoundtitleheadcenterhfoundhcenterhrcenternginxubuntucenter
+headtitle
+foundtitlehead
+centerh
+foundhcenter
+hrcenternginx
+ubuntucenter

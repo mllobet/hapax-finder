@@ -78,7 +78,7 @@ def run(files, input_directory, output_directory):
                 hapax_dict = find_hapax(f)
                 print("Hapax count: {}".format(len(hapax_dict)))
                 for k, v in hapax_dict.items():
-                    w.write(k)
+                    w.write(k + "\n")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Finds words that appear only once in a given text (hapaxes)")
